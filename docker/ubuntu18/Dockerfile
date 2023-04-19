@@ -1,6 +1,6 @@
 # Docker file that builds an Ubuntu Bionic image ready for GRR installation.
 
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 
 LABEL maintainer="grr-dev@googlegroups.com"
 
